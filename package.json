@@ -1,0 +1,31 @@
+{
+  "name": "qnote",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.0.0",
+    "react-native": "0.51.1",
+    "react-native-actionsheet": "^2.4.2",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-image-picker": "^0.26.10",
+    "react-native-radio-master": "^1.0.1",
+    "react-native-root-toast": "^3.0.1",
+    "react-native-swipeout": "^2.3.6",
+    "react-native-tab-navigator": "^0.3.4",
+    "react-navigation": "^2.6.2",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel-jest": "23.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "23.3.0",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
