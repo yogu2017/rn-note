@@ -8,10 +8,11 @@
  * 发布日记，图文，所见所想
  * 状态可公开、私密、附近可见（暂未完结）
  * 公开记录可以收到私信（匿名，不匿名两种状态）
+ * 做过一版小程序的～～但是个人无法发布，所以转了app
 
 ![cmd-markdown-logo](https://image.wely.top/blog/noteapp/11.jpg)
 
-* 视频版请点此[去观看](https://image.wely.top/blog/noteapp/3.mov)
+* 视频版请点此[去观看](https://image.wely.top/blog/noteapp)
 * 更多详细大图请前往我的博客：[传送门](https://www.wely.top)
 * 此app部分功能暂未实现（比如附近可见）。
 
