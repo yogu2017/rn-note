@@ -10,7 +10,7 @@
  * 公开记录可以收到私信（匿名，不匿名两种状态）
  * 做过一版小程序的～～但是个人无法发布，所以转了app
 
-(https://image.wely.top/blog/noteapp/11.jpg)
+![图]((https://image.wely.top/blog/noteapp/11.jpg)
 
 * 视频版请点此[去观看](https://image.wely.top/blog/noteapp)
 * 更多详细大图请前往我的博客：[传送门](https://www.wely.top)
